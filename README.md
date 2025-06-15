@@ -1,2 +1,5 @@
-# neural-cleanse-kmeans-backdoor-defense
-A defense framework combining Neural Cleanse with K-means clustering to detect all-to-one parallel multi-trigger backdoor attacks in deep neural networks. Includes CIFAR-10 experiments and comprehensive evaluation.
+# Combine Neural Cleanse with K-means Clustering for Detecting All-to-one Parallel Multi-trigger Backdoor Attacks
+
+ # Abstract
+Official implementation of a post-training defense method that leverages Neural Cleanse reverse engineering and K-means clustering to identify and distinguish multi-trigger backdoor patterns in DNNs. Evaluated on CIFAR-10.
+ 
